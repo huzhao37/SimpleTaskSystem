@@ -3,3 +3,10 @@
 ################################################################################
 
 /Tests/SimpleTaskSystem.Tests/obj/Debug
+/Tools/SimpleTaskSystem.Migrator/obj/Debug
+/SimpleTaskSystem.WebApi/obj/Debug
+/SimpleTaskSystem.Web/bin
+/SimpleTaskSystem.Web/obj/Debug
+/SimpleTaskSystem.EntityFramework/obj/Debug
+/SimpleTaskSystem.Core/obj/Debug
+/SimpleTaskSystem.Application/obj/Debug
