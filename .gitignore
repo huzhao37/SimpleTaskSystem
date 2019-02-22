@@ -2,11 +2,4 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/Tests/SimpleTaskSystem.Tests/obj/Debug
-/Tools/SimpleTaskSystem.Migrator/obj/Debug
-/SimpleTaskSystem.WebApi/obj/Debug
-/SimpleTaskSystem.Web/bin
-/SimpleTaskSystem.Web/obj/Debug
-/SimpleTaskSystem.EntityFramework/obj/Debug
-/SimpleTaskSystem.Core/obj/Debug
-/SimpleTaskSystem.Application/obj/Debug
+/SimpleTaskSystem.Application/bin/Debug
